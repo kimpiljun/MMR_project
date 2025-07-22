@@ -71,7 +71,7 @@ MMR_project/
 
 **김필준 (Piljun Kim)**
 📧 [kimpj1997@naver.com](mailto:kimpj1997@naver.com)
-🔗 [Notion 포트폴리오 보기]([https://notion.so/abbb0b673a594e5899f3ad4a2880e666)
+🔗 [Notion 포트폴리오 보기](https://notion.so/abbb0b673a594e5899f3ad4a2880e666)
 
 ---
 
