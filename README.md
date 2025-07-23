@@ -71,7 +71,7 @@ MMR_project/
 
 **김필준 (Piljun Kim)**
 📧 [kimpj1997@naver.com](mailto:kimpj1997@naver.com)
-🔗 [Notion 포트폴리오 보기](https://www.notion.so/EPL-238481d8bb10800f9800f14a6b2587a9)
+🔗 [Notion 포트폴리오 보기](https://www.notion.so/LOL-league-of-legend-238481d8bb10808e82d7d8a3ed85b6da)
 
 ---
 
