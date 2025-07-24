@@ -75,7 +75,7 @@ Discord 봇을 활용해 전적 데이터를 수집하고, 포지션별 주요 �
 \| 🟥 Loss                | High                 | ⬆️ Gain         |
 \| 🟩 Win                 | Low                  | ⬇️ Deduction    |
 \| Any                   | Average              | ➖ No change     |
-``
+```
      * ⬆️ 패배했지만 활약도가 높은 경우 → 가산점
      * ⬇️ 승리했지만 기여도가 낮은 경우 → 감점
      * ➖ 평균적인 기여도 → 점수 유지
