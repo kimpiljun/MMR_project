@@ -114,7 +114,8 @@ MMR_project/
 * 🏆 **대회 운영 최적화**: 실제 기여도 기반 선발 기준 마련
 * ⚙️ **매칭 시스템 고도화**: 커뮤니티 또는 서버 운영 시 활용 가능
  <div align="Center">
-  <img width="600" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/324d5d1c-648d-435e-a37c-4709414d94f6" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
+  <img width="600" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
+     <img width="600" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
   <div style="display: inline-block; text-align: left; max-width: 500px; vertical-align: middle;">
     <h4>🧮 사이트 제공 이미지</h4>
     <p>한 게임의 유저들에 대한 정보 공개<br>
