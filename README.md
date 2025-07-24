@@ -39,6 +39,7 @@ Discord 봇을 활용해 전적 데이터를 수집하고, 포지션별 주요 �
 * **주요 변수**: 킬, 어시스트, 딜량, 골드, 시야 점수, 오브젝트 기여도 등
 * **사용 도구**:
   `Python`, `R`, `SQL`, `pandas`, `scikit-learn`, `seaborn`, `matplotlib`
+* **내전 봇 정규화 테이블** : img width="868" height="635" alt="Image" src="https://github.com/user-attachments/assets/324d5d1c-648d-435e-a37c-4709414d94f6"
 
 ---
 
