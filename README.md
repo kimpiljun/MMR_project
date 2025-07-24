@@ -112,12 +112,21 @@ MMR_project/
 > 🎯 **Smurf / 치터 탐지**: 비정상 사용자 조기 판별  
 > 🏆 **대회 운영 기준 수립**: 공정한 선발 기준 제시  
 > ⚙️ **매칭 시스템 고도화**: 커뮤니티 또는 서버 운영 시 활용 가능
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be-c253f03c163e" alt="Civil Bot Table 1" width="45%" style="margin-right: 10px; display: inline-block;" />
-  <img src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-593e0a6dde7" alt="Civil Bot Table 2" width="45%" style="display: inline-block;" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be-c253f03c163e" alt="Civil Bot Table 1" width="400"/><br/>
+      <sub>MMR 기준 1</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-593e0a6dde7" alt="Civil Bot Table 2" width="400"/><br/>
+      <sub>MMR 기준 2</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="max-width: 700px;">
+<div align="center">
+
   <h4>🧮 사이트 활용 예시</h4>
   <p>
     분석된 기여도 기반으로 포지션별 고수 유저를 구분하여 MMR 기준을 시각화합니다.<br>
