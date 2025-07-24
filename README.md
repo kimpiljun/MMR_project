@@ -40,7 +40,7 @@ Discord 봇을 활용해 전적 데이터를 수집하고, 포지션별 주요 �
 * **사용 도구**:
   `Python`, `R`, `SQL`, `pandas`, `scikit-learn`, `seaborn`, `matplotlib`
 <div align="center">
-  <img width="450" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/324d5d1c-648D-648D-435E-4709414D94F6" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
+  <img width="450" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/324d5d1c-648d-435e-a37c-4709414d94f6" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
   <div style="display: inline-block; text-align: left; max-width: 500px; vertical-align: middle;">
     <h4>🧮 Civil War Bot 정규화 테이블</h4>
     <p>각 포지션별 주요 변수들(KDA, 오브젝트 기여 등)의 분포를 정규화하여<br>
