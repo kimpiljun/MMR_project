@@ -1,6 +1,12 @@
 # 🎮 LoL MMR 게임 영향력 모델링 프로젝트
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/LoL%20API-5C2D91?style=for-the-badge&logo=riot-games&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoL_API-5C2D91?style=for-the-badge&logo=riot-games&logoColor=white"/>
+</p>
+
 
 이 프로젝트는 단순한 승패 결과가 아닌, 실제 **게임 내 퍼포먼스**를 기반으로 한 리그 오브 레전드(LoL)의 맞춤형 MMR(Matchmaking Rating) 시스템을 구축하는 것을 목표로 합니다. 상세한 전적 데이터를 분석하여 각 플레이어의 영향력을 수치화하고, 이를 기반으로 부정 행위자 탐지, 공정한 매칭, 대회 선발 등에 활용할 수 있는 정교한 점수 체계를 설계합니다.
 
@@ -13,6 +19,13 @@
 ✅ **팀 구성의 질적 향상**을 위한 평가 시스템 구축
 
 ---
+## 📊 분석 개요
+
+* **데이터 수집** : Discord Bot을 활용 Riot API 방식을 통한 데이터 수집
+* **데이터 정제 및 분석을 통한 MMR 지표 개발** :
+* **
+
+
 
 ## 📂 데이터 및 도구
 
