@@ -113,8 +113,8 @@ MMR_project/
 > 🏆 **대회 운영 기준 수립**: 공정한 선발 기준 제시  
 > ⚙️ **매칭 시스템 고도화**: 커뮤니티 또는 서버 운영 시 활용 가능
 <p align="center">
-  <img width="600" height="500" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 20px; display: inline-block;" />
-  <img width="600" height="500" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
+  <img width="600" height="700" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 20px; display: inline-block;" />
+  <img width="600" height="700" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-right: 20px; display: inline-block;" />
 </p>
 
 <div align="center" style="max-width: 700px; text-align: left;">
