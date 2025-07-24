@@ -117,9 +117,8 @@ MMR_project/
   <img width="600" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/324d5d1c-648d-435e-a37c-4709414d94f6" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
   <div style="display: inline-block; text-align: left; max-width: 500px; vertical-align: middle;">
     <h4>🧮 사이트 제공 이미지</h4>
-    <p>각 포지션별 주요 변수들(KDA, 오브젝트 기여 등)의 분포를 정규화하여<br>
-    영향력 지수(Game Impact Score) 산출의 기준 테이블로 사용합니다.<br>
-    이를 통해 포지션 차이에 따른 수치 왜곡 없이 정량 비교가 가능합니다.</p>
+    <p>한 게임의 유저들에 대한 정보 공개<br>
+    선정한 MMR 기준 높은 실력을 가진 유저들을 라인별로 제시</p>
   </div>
 </div>
 
