@@ -132,7 +132,7 @@ MMR_project/
 ### **💬 활용 사례**
 <p align="center">
   <img width="439" height="856" alt="Image" src="https://github.com/user-attachments/assets/36470bd3-00d5-4b87-bc52-aa7d7f036ffb" style="margin-right: 10px; display: inline-block;" />
-  <img width="565" height="622" alt="Image" src="https://github.com/user-attachments/assets/addf6436-4bae-4a4e-8471-b085722a50de" style="margin-left: 10px; display: inline-block;" />
+  <img width="565" height="856" alt="Image" src="https://github.com/user-attachments/assets/addf6436-4bae-4a4e-8471-b085722a50de" style="margin-left: 10px; display: inline-block;" />
 </p>
 
 <div align="center" style="max-width: 700px; text-align: left;">
