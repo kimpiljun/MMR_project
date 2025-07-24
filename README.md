@@ -132,8 +132,8 @@ MMR_project/
 ### ** 💬 활용 사례**
 
 
-**[Discord 운영 연동](https://discord.com)**  
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+**<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> BOT 연동**  
+
 ---
 
 ## 🧑‍💻 작성자
