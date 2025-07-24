@@ -133,6 +133,7 @@ MMR_project/
 
 
 **[Discord 운영 연동](https://discord.com)**  
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 ---
 
 ## 🧑‍💻 작성자
