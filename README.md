@@ -113,11 +113,11 @@ MMR_project/
 > 🏆 **대회 운영 기준 수립**: 공정한 선발 기준 제시  
 > ⚙️ **매칭 시스템 고도화**: 커뮤니티 또는 서버 운영 시 활용 가능
 <p align="center">
-  <img width="600" height="700" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 20px; display: inline-block;" />
-  <img width="600" height="700" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-right: 20px; display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be-c253f03c163e" alt="Civil Bot Table 1" width="45%" style="margin-right: 10px; display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-593e0a6dde7" alt="Civil Bot Table 2" width="45%" style="display: inline-block;" />
 </p>
 
-<div align="center" style="max-width: 700px; text-align: left;">
+<div align="center" style="max-width: 700px;">
   <h4>🧮 사이트 활용 예시</h4>
   <p>
     분석된 기여도 기반으로 포지션별 고수 유저를 구분하여 MMR 기준을 시각화합니다.<br>
