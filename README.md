@@ -106,21 +106,23 @@ MMR_project/
 
 ---
 
-## 📌 업데이트 예정 내용 및 활용 사례
+## 📌 활용 예정 내용 및 활용 사례
 
-**업데이트 예정 내용**
+> **📅 업데이트 예정 항목**  
+> 🎯 **Smurf / 치터 탐지**: 비정상 사용자 조기 판별  
+> 🏆 **대회 운영 기준 수립**: 공정한 선발 기준 제시  
+> ⚙️ **매칭 시스템 고도화**: 커뮤니티 또는 서버 운영 시 활용 가능
+<p align="center">
+  <img width="600" height="330" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be-c253f03c163e" style="margin-right: 20px; display: inline-block;" />
+  <img width="600" height="330" alt="civil but table 2" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-593e0a6dde7" style="margin-right: 20px; display: inline-block;" />
+</p>
 
-* 🎯 **스머프/치터 탐지**: 부정 행위 여부 조기 판별 가능
-* 🏆 **대회 운영 최적화**: 실제 기여도 기반 선발 기준 마련
-* ⚙️ **매칭 시스템 고도화**: 커뮤니티 또는 서버 운영 시 활용 가능
- <div align="Center">
-  <img width="600" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
-     <img width="600" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
-  <div style="display: inline-block; text-align: left; max-width: 500px; vertical-align: middle;">
-    <h4>🧮 사이트 제공 이미지</h4>
-    <p>한 게임의 유저들에 대한 정보 공개<br>
-    선정한 MMR 기준 높은 실력을 가진 유저들을 라인별로 제시</p>
-  </div>
+<div align="center" style="max-width: 700px; text-align: left;">
+  <h4>🧮 사이트 활용 예시</h4>
+  <p>
+    분석된 기여도 기반으로 포지션별 고수 유저를 구분하여 MMR 기준을 시각화합니다.<br>
+    이를 통해 실력 기반 매칭과 팀 구성의 질적 향상에 기여할 수 있습니다.
+  </p>
 </div>
 
 **활용 사례**
