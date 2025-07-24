@@ -108,13 +108,13 @@ MMR_project/
 
 ## 📌 예상되는 콘텐츠 및 활용 사례
 
-> ** 📅 업데이트 예정 항목 **
+ **📅 업데이트 예정 항목**
+
+> 🎯 **스머프 / 핵 탐지**: 비정상 사용자 조기 감지
 >
-> 🎯 ** 스머프 / 핵 탐지 **: 비정상 사용자 조기 감지
+> 🏆 **경쟁 기준 수립**: 공정한 선정 기준 제시
 >
-> 🏆 ** 경쟁 기준 수립 **: 공정한 선정 기준 제시
->
-> ⚙️ ** 매칭 시스템 고도화 **
+> ⚙️ **매칭 시스템 고도화**
 
 <p align="center">
   <img width="500" height="1000" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 10px; display: inline-block;" />
@@ -124,8 +124,8 @@ MMR_project/
 <div align="center" style="max-width: 700px; text-align: left;">
   <h4> 🧮 MMR 기준 시각화 예시 </h4>
   <p>
-    분석된 기여도를 바탕으로 MMR 기준이 시각화됩니다.<br>
-    이는 실력 기반 매칭과 팀 구성의 질 향상에 기여할 수 있습니다.
+    한 게임 내 유저의 지표를 직관적으로 보여줍니다.<br>
+    MMR을 토대로 라인별 실력 순위를 제공합니다.
   </p>
 </div>
 
