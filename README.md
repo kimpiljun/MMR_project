@@ -117,7 +117,7 @@ MMR_project/
 > ⚙️ ** 매칭 시스템 고도화 **
 
 <p align="center">
-  <img width="500" height="700" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 10px; display: inline-block;" />
+  <img width="500" height="800" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 10px; display: inline-block;" />
   <img width="500" height="700"  alt="ciVIL BOT TABLE" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-left: 10px; display: inline-block;" />
 </p>
 
