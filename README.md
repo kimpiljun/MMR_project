@@ -129,10 +129,20 @@ MMR_project/
   </p>
 </div>
 
-### ** 💬 활용 사례**
+### **💬 활용 사례**
+<p align="center">
+  <img width="439" height="856" alt="Image" src="https://github.com/user-attachments/assets/36470bd3-00d5-4b87-bc52-aa7d7f036ffb" style="margin-right: 10px; display: inline-block;" />
+  <img width="565" height="622" alt="Image" src="https://github.com/user-attachments/assets/addf6436-4bae-4a4e-8471-b085722a50de style="margin-left: 10px; display: inline-block;" />
+</p>
 
+<div align="center" style="max-width: 700px; text-align: left;">
+  <h4> 🧮 서비스 제공 사례 </h4>
+  <p>
+  mmr 지표를 토대로 유저들의 개선점 제안.<br>
+  Discord BOT 연동 및 실제 서비스 제공.
+  </p>
+</div>
 
-**<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> BOT 연동**  
 
 ---
 
