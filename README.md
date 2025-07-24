@@ -39,7 +39,15 @@ Discord 봇을 활용해 전적 데이터를 수집하고, 포지션별 주요 �
 * **주요 변수**: 킬, 어시스트, 딜량, 골드, 시야 점수, 오브젝트 기여도 등
 * **사용 도구**:
   `Python`, `R`, `SQL`, `pandas`, `scikit-learn`, `seaborn`, `matplotlib`
-* **내전 봇 정규화 테이블** : img width="868" height="635" alt="Image" src="https://github.com/user-attachments/assets/324d5d1c-648d-435e-a37c-4709414d94f6"
+<div align="center">
+  <img width="450" height="330" alt="Civil Bot Table" src="https://github.com/user-attachments/assets/324d5d1c-648D-648D-435E-4709414D94F6" style="margin-right: 20px; display: inline-block; vertical-align: middle;" />
+  <div style="display: inline-block; text-align: left; max-width: 500px; vertical-align: middle;">
+    <h4>🧮 Civil War Bot 정규화 테이블</h4>
+    <p>각 포지션별 주요 변수들(KDA, 오브젝트 기여 등)의 분포를 정규화하여<br>
+    영향력 지수(Game Impact Score) 산출의 기준 테이블로 사용합니다.<br>
+    이를 통해 포지션 차이에 따른 수치 왜곡 없이 정량 비교가 가능합니다.</p>
+  </div>
+</div>
 
 ---
 
