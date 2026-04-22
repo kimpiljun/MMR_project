@@ -230,21 +230,6 @@ MMR과 game_impact_winloss_norm 지표를 활용하여 기존 KDA·승률 중심
 플레이어의 전체 퍼포먼스, 기여도, 상대 대비 경쟁력을 종합적으로 해석할 수 있다.
 </p>
 
-<hr>
-
-<!-- 🔥 서비스 적용 -->
-<p align="center">
-  <img width="420" src="https://github.com/user-attachments/assets/36470bd3-00d5-4b87-bc52-aa7d7f036ffb"/>
-</p>
-
-<p align="center">
-  <strong>서비스 적용 예시</strong>
-</p>
-
-<p>
-Discord Bot 및 전적 시스템과 연동하여 실시간으로 MMR 기반 정보를 제공한다.
-유저는 자신의 플레이 스타일, 팀 내 기여도, 라인전 성과를 직관적으로 확인할 수 있다.
-</p>
 
 <hr>
 
