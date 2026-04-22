@@ -219,7 +219,7 @@ MMR_custom 지표는 단순 분석을 넘어 실제 서비스 환경에서 활�
 <h3>👤 유저 분석</h3>
 
 <p align="center">
-  <img width="420" src="유저_이미지_URL"/>
+  <img width="420" src="https://github.com/user-attachments/assets/6a88488b-ddc2-4678-b33a-7b1360d90920")/>
 </p>
 
 <p>
