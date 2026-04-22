@@ -46,14 +46,14 @@
 </p>
 
 <pre>
-게임 데이터
-→ Feature Engineering
-→ 포지션별 가중치 적용
-→ Game Impact Score
-→ 팀 내 기여도 (인분)
-→ 상대 포지션 비교
-→ Elo 기반 상대 성과 반영
-→ 최종 MMR 업데이트
+게임 데이터:</strong> 전적 로그 기반 데이터 수집
+→ Feature Engineering:</strong> per-minute, per-death 등 정규화 지표 생성
+→ 포지션별 가중치:</strong> 역할별 중요 지표 반영
+→ Game Impact:</strong> 게임 내 영향력 수치화
+→ 인분 지표:</strong> 팀 내 기여도 평가
+→ 상대 비교:</strong> 동일 포지션 상대와 비교
+→ Elo 반영:</strong> 기대 성과 대비 실제 성과 반영
+→ MMR 업데이트:</strong> 안정성 로직 적용
 </pre>
 
 <ul>
