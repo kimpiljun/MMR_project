@@ -297,44 +297,6 @@ MMR_project/
 └── README.md           # 프로젝트 설명 문서
 ```
 
----
-
-## 📌 예상되는 콘텐츠 및 활용 사례
-
-### **📅 업데이트 예정 항목**
-
-> 🎯 **스머프 / 핵 탐지**: 비정상 사용자 조기 감지
->
-> 🏆 **경쟁 기준 수립**: 공정한 선정 기준 제시
->
-> ⚙️ **매칭 시스템 고도화**
-
-<p align="center">
-  <img width="450" height="700" alt="civil but table 1" src="https://github.com/user-attachments/assets/25ddc58e-87ca-48f2-be6e-c253f03c163e" style="margin-right: 10px; display: inline-block;" />
-  <img width="450" height="700"  alt="ciVIL BOT TABLE" src="https://github.com/user-attachments/assets/5126c2ef-02dd-4307-b85e-593e0aa6dde7" style="margin-left: 10px; display: inline-block;" />
-</p>
-
-<div align="center" style="max-width: 700px; text-align: left;">
-  <h4> 🧮 인터넷 서비스 제공 예시 </h4>
-  <p>
-    한 게임 내 유저의 지표를 직관적으로 보여줍니다.<br>
-    MMR을 토대로 라인별 실력 순위를 제공합니다.
-  </p>
-</div>
-
-### **💬 활용 사례**
-<p align="center">
-  <img width="439" height="622" alt="Image" src="https://github.com/user-attachments/assets/36470bd3-00d5-4b87-bc52-aa7d7f036ffb" style="margin-right: 10px; display: inline-block;" />
-  <img width="565" height="622" alt="Image" src="https://github.com/user-attachments/assets/addf6436-4bae-4a4e-8471-b085722a50de" style="margin-left: 10px; display: inline-block;" />
-</p>
-
-<div align="center" style="max-width: 700px; text-align: left;">
-  <h4> 🧮 서비스 제공 사례 </h4>
-  <p>
-  mmr 지표를 토대로 유저들의 개선점 제안.<br>
-  Discord BOT 연동 및 실제 서비스 제공.
-  </p>
-</div>
 
 
 ---
