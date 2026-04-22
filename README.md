@@ -37,6 +37,38 @@
 - ✅ **포지션별 특성 고려한 정량 평가**
 - ✅ **실제 서비스 적용 가능한 MMR 시스템 설계**
 ---
+<hr>
+
+<h2>⚙️ MMR_custom 시스템 구조</h2>
+
+<p>
+본 프로젝트는 단순한 승패가 아닌, 개인의 기여도, 상대 비교, 경기 난이도를 모두 반영하는
+퍼포먼스 기반 MMR 시스템을 구축한다.
+</p>
+
+<pre>
+게임 데이터
+→ Feature Engineering
+→ 포지션별 가중치 적용
+→ Game Impact Score
+→ 팀 내 기여도 (인분)
+→ 상대 포지션 비교
+→ Elo 기반 상대 성과 반영
+→ 최종 MMR 업데이트
+</pre>
+
+<ul>
+  <li><strong>게임 데이터:</strong> 전적 로그 기반 데이터 수집</li>
+  <li><strong>Feature Engineering:</strong> per-minute, per-death 등 정규화 지표 생성</li>
+  <li><strong>포지션별 가중치:</strong> 역할별 중요 지표 반영</li>
+  <li><strong>Game Impact:</strong> 게임 내 영향력 수치화</li>
+  <li><strong>인분 지표:</strong> 팀 내 기여도 평가</li>
+  <li><strong>상대 비교:</strong> 동일 포지션 상대와 비교</li>
+  <li><strong>Elo 반영:</strong> 기대 성과 대비 실제 성과 반영</li>
+  <li><strong>MMR 업데이트:</strong> 안정성 로직 적용</li>
+</ul>
+
+<hr>
 
 ## 📂 데이터 및 도구
 
